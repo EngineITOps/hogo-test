@@ -1,6 +1,6 @@
 ---
 title: How to create Dockerhub Account
-weight: 5
+weight: 2
 pre: "<b>1. </b>"
 chapter: true
 ---
