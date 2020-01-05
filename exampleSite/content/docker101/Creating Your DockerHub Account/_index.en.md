@@ -1,3 +1,10 @@
+---
+title: How to create Dockerhub Account
+weight: 5
+pre: "<b>1. </b>"
+chapter: true
+---
+
 # How to create Dockerhub Account
 
 ### Open https://hub.docker.com and click on "Sign Up" for DockerHub
