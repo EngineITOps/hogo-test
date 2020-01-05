@@ -1,6 +1,6 @@
 ---
 title: Demonstrating Hello World Example
-weight: 2
+weight: 1
 pre: "<b>2. </b>"
 chapter: true
 ---
